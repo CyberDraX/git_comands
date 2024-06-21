@@ -23,7 +23,3 @@
 git branch - показує, на якій ви зараз гілці
 git checkout -b <branch_name> - створює нову гілку з ім'ям <branch_name> і перемикається на цю гілку
 git checkout <branch_name> - перемикається на існуючу гілку з ім'ям <branch_name>
-
-This is text made in branch A
-
-This text in branch B
